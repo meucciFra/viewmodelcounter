@@ -1,11 +1,25 @@
 {
-  "posts": [
+  "scores": [
     {
-      "id": 1,
-      "title": "hello"
+      "rowid": 1,
+      "score_value": "1",
+      "score_date": "2021-09-30"
+    }, {
+      "rowid": 2,
+      "score_value": "2",
+      "score_date": "2021-09-30"
+    }, {
+      "rowid": 3,
+      "score_value": "3",
+      "score_date": "2021-09-30"
+    }, {
+      "rowid": 4,
+      "score_value": "1",
+      "score_date": "2021-10-1"
+    }, {
+      "rowid": 5,
+      "score_value": "2",
+      "score_date": "2021-10-1"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
